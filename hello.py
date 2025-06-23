@@ -1,0 +1,4 @@
+print ('hello world')
+print ("python and git")
+a = input ("input your last name: ")
+print (f"welcome {a}")
